@@ -1,6 +1,6 @@
 # Get-ADReplAccount-Brute-Force
 
-Get-ADReplAccount-Brute-Force v0.1 by improvizza<br><br>
+Get-ADReplAccount-Brute-Force v0.1 by improvizza. Thank to Michael Grafnetter's Get-ADReplAccount library.<br><br>
 Brute force to a remote domain controller using Get-ADReplAccount library to retrieve reversibly encrypted plaintext passwords, password hashes and Kerberos keys of all user accounts.<br>
 Do brute force attack with two files users.txt with all possible usernames and pswds.txt with all possible passwords.<br>
 First install GET-ADReplAccount following instructions:<br>
